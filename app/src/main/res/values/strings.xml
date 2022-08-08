@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SistemaLoginLabfront</string>
+
+    <string name="facebook_app_id">423684155784147</string>
+    <string name="fb_login_protocol_scheme">fb423684155784147</string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560347552374",
+    "project_id": "labfrontapp01-9e53c",
+    "storage_bucket": "labfrontapp01-9e53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560347552374:android:c8146438c8ccaf07dc1d57",
+        "android_client_info": {
+          "package_name": "com.example.authmailgooglefb01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560347552374-rlc0gg5imsstj4aqo7vfo4vrvbgnpjjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authmailgooglefb01",
+            "certificate_hash": "fc389619b22be17c9a23dee71a000a6c979812df"
+          }
+        },
+        {
+          "client_id": "560347552374-khp2tdhj7a9vf1amg6spln85lqvthfhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFetJHjfYNtLq4aof5LfVwyfw5fTn8uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560347552374-khp2tdhj7a9vf1amg6spln85lqvthfhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
